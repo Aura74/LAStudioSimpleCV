@@ -1,4 +1,7 @@
 # LAStudioSimpleCV
-![image](https://user-images.githubusercontent.com/50366078/221127070-e63240b2-43f5-4e07-a7b5-410bdcb556ed.png)
+https://codepen.io/lars-asplund-hotmail-com/pen/MWqmZra
+![image](https://user-images.githubusercontent.com/50366078/222806699-9a38ce2c-d4ac-4863-923d-c37cc0377a75.png)
+
 Nedre delen
-![image](https://user-images.githubusercontent.com/50366078/221127173-71458746-0b2a-4438-add9-bd10dc924c62.png)
+
+![image](https://user-images.githubusercontent.com/50366078/222806740-086fa26d-c4eb-4442-a51d-7b1d520c2ec6.png)
